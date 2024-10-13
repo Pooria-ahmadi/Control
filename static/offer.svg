@@ -1,0 +1,23 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>Untitled-svg</title>
+	<defs>
+		<image  width="7" height="8" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAIBAMAAADHKvg1AAAAAXNSR0IB2cksfwAAAA9QTFRF70A270A270A270A270A2iMMknwAAAAV0Uk5TAAsw5KzUc70LAAAALUlEQVR4nGNkYGD8z8jAoCzLyMBk+JaRQZn/HCOQ8YARyGBgdL77gAEoy8AAAJyXCGm0kK5DAAAAAElFTkSuQmCC"/>
+		<image  width="6" height="6" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGBAMAAAAS4vJ7AAAAAXNSR0IB2cksfwAAADBQTFRF70A270A270A270A270A270A270A270A270A270A270A270A270A270A270A270A2C+ESZAAAABB0Uk5TAAo8NOn/NazrdaLkfC3xNzGEKp8AAAAgSURBVHicY2RUuM9oosDDWKFwg3G1wlXGew1FjAwfBABNiAdHcuAvvwAAAABJRU5ErkJggg=="/>
+		<image  width="6" height="6" id="img3" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGBAMAAAAS4vJ7AAAAAXNSR0IB2cksfwAAADBQTFRF70A270A270A270A270A270A270A270A270A270A270A270A270A270A270A270A2C+ESZAAAABB0Uk5TAAo8NOn/NazrdaLkfC3xNzGEKp8AAAAgSURBVHicY2RUuM9oosDDWKFwg3G1wlXGew1FjAwfBABNiAdHcuAvvwAAAABJRU5ErkJggg=="/>
+		<image  width="12" height="3" id="img4" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAADBAMAAABVDfMBAAAAAXNSR0IB2cksfwAAAA9QTFRFEA4aEA4aEA4aEA4aEA4apizVIwAAAAV0Uk5TC0Cl/wBiOA1kAAAAF0lEQVR4nGNkFGBgYPjPqAyhHC8AKWYAIIwDWpw3q18AAAAASUVORK5CYII="/>
+		<image  width="4" height="3" id="img5" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAADBAMAAABG2rP1AAAAAXNSR0IB2cksfwAAAA9QTFRFEA4aEA4aEA4aEA4aEA4apizVIwAAAAV0Uk5TC0Cl/wBiOA1kAAAAEUlEQVR4nGNk5GdU5md0vAwAAswBWsi9C1AAAAAASUVORK5CYII="/>
+		<image  width="20" height="17" id="img6" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAARCAMAAADqmnyMAAAAAXNSR0IB2cksfwAAADZQTFRFEA4aEA4aEA4aEA4aEA4aEA4aEA4aEA4aEA4aEA4aEA4aEA4aEA4aEA4aEA4aEA4aEA4aEA4a9sLulAAAABJ0Uk5TACpAdPP/l6ZcUIKP8r/vwKULLVg5OgAAAG5JREFUeJyN0M0SQ0AQBOBuQlXCxvs/JUE5kOyYFdT+OOjbfDWHmSY0JI6IuBnIPXP6Uywl43xaKZYzn99igp/X8mDFEWFqoWEf4VsRQ4QGdxHmCi83FbNPiumdislHDvffbYj/lqouxK3PpvVwBdwAH1qYZ7NxAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: none } 
+	</style>
+	<path id="prefix__Path_11209" fill-rule="evenodd" class="s0" d="m0 0h24v24h-24z"/>
+	<g id="prefix__Group_6845">
+		<use id="prefix__Path_11210" href="#img1" x="13" y="12"/>
+		<use id="prefix__Path_11211" href="#img2" x="11" y="10"/>
+		<use id="prefix__Path_11212" href="#img3" x="17" y="16"/>
+	</g>
+	<use id="prefix__Path_11213" href="#img4" x="6" y="6"/>
+	<use id="prefix__Path_11214" href="#img5" x="6" y="10"/>
+	<use id="prefix__Path_11215" href="#img6" x="2" y="2"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 25" width="24" height="25">
+	<title>profile_bottom_icon_active-svg</title>
+	<defs>
+		<image  width="14" height="13" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAANCAMAAACuAq9NAAAAAXNSR0IB2cksfwAAAGxQTFRF70M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M570M5HXmuTAAAACR0Uk5TACEGk+r/MNqYZsjnP/VaT63cu8Kq22xCAfMdTPfidDp1tCRKn+O/KgAAAItJREFUeJwtzukKwjAQBOCZCB5F1NZ6oILg+z+TIKio1VZF6gHJukmTH0k+2GOIcAiJL2BIpYgLbNO1lNbIzzMhX1rTp62Vg3fyCH3DuvckRqyacUjlTmS8RY6lJHIWkRO5EtMqOwfNyvRCzL9dHlUL+XROumhJH4NW5BBSrc1e75XbNSGBjaba+s8fOzAsDvoR3doAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: #100e1a } 
+		.s1 { fill: none } 
+	</style>
+	<g id="prefix__Group_1014">
+		<path id="prefix__Path_12266" class="s0" d="m3.7 21.5q0-1 0.4-2 0.4-1 1.2-1.7 0.7-0.8 1.7-1.2 0.9-0.4 2-0.4h6q1.1 0 2 0.4 1 0.4 1.7 1.2 0.8 0.7 1.2 1.7 0.4 1 0.4 2"/>
+		<use id="prefix__Path_12267" href="#img1" x="5" y="1"/>
+	</g>
+	<path id="prefix__Path_12268" fill-rule="evenodd" class="s1" d="m0 0h24v24h-24z"/>
+</svg>

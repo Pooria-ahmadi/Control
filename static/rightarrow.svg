@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="51" viewBox="0 0 50 51">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:none}
+        </style>
+    </defs>
+    <g id="prefix__Group_6817" data-name="Group 6817" transform="translate(.268)">
+        <g id="prefix__Rectangle_790" data-name="Rectangle 790" transform="translate(-.268)" style="stroke:#efefef;fill:none">
+            <rect width="50" height="51" rx="18" style="stroke:none"/>
+            <rect width="49" height="50" x=".5" y=".5" class="prefix__cls-2" rx="17.5"/>
+        </g>
+        <g id="prefix__Left_1" transform="translate(13 14)">
+            <path id="prefix__Path_5528" d="M24 0H0v23.267h24z" class="prefix__cls-2" data-name="Path 5528"/>
+            <path id="prefix__Path_5529" d="M10 8l4 3.878-4 3.878" data-name="Path 5529" transform="translate(0 -.244)" style="stroke:#100e1a;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5px;fill:none"/>
+        </g>
+    </g>
+</svg>

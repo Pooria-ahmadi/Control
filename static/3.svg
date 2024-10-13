@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>3-svg</title>
+	<defs>
+		<image  width="10" height="11" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAALBAMAAAC0QAErAAAAAXNSR0IB2cksfwAAAC1QTFRF70A270A270A270A270A270A270A270A270A270A270A270A270A270A270A2Ty9a2QAAAA90Uk5TAEGXpT06/7bmJJXqzIZlI35MIAAAACtJREFUeJxjZAABRkYlgf98jGGyB1gNGVeHMjCcZTQ+y8BgTIB8J8TA8A4AmOcNorJdCG4AAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		.s0 { fill: none } 
+		.s1 { fill: #100e1a } 
+	</style>
+	<path id="prefix__Path_11279" fill-rule="evenodd" class="s0" d="m23.9 0v24h-23.9v-24z"/>
+	<path id="prefix__Path_11280" class="s1" d="m16 21h-8q-1 0-2-0.4-0.8-0.4-1.6-1-0.7-0.8-1-1.7-0.4-0.9-0.4-1.9v-7.4q0-0.2 0.1-0.3 0-0.2 0.2-0.4 0.2-0.1 0.3-0.2 0.2-0.1 0.4-0.1h15.9q0.3 0 0.5 0.1 0.1 0.1 0.2 0.2 0.2 0.2 0.3 0.4 0.1 0.1 0.1 0.3v7.4q0 1-0.5 1.9-0.3 0.9-1 1.7-0.7 0.6-1.6 1-0.9 0.4-1.9 0.4z"/>
+	<use id="prefix__Path_11281" href="#img1" x="7" y="1"/>
+</svg>

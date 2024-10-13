@@ -1,0 +1,9 @@
+.nuxt/
+
+node_modules/
+
+cgi-bin/
+
+.htaccess
+
+static/sw.js

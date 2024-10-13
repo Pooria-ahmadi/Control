@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+	<title>44-svg</title>
+	<style>
+		.s0 { fill: #e4e4e4 } 
+		.s1 { fill: none;stroke: #c9c9c9;stroke-linecap: round;stroke-linejoin: round;stroke-width: 1.5 } 
+		.s2 { fill: none } 
+	</style>
+	<g id="prefix__Group_1014">
+		<path id="prefix__Path_12266" class="s0" d="m3.7 20.6q0-1 0.4-1.9 0.4-0.9 1.2-1.6 0.7-0.7 1.7-1.1 0.9-0.4 2-0.4h6q1.1 0 2 0.4 1 0.4 1.7 1.1 0.8 0.7 1.2 1.6 0.4 0.9 0.4 1.9"/>
+		<path id="prefix__Path_12267" fill-rule="evenodd" class="s1" d="m15.6 3.8c1.4 1.4 1.8 3.5 1.1 5.3-0.8 1.8-2.7 3-4.7 3-2 0-3.9-1.2-4.7-3-0.7-1.8-0.3-3.9 1.1-5.3q0.8-0.6 1.7-1 0.9-0.4 1.9-0.4 1 0 1.9 0.4 0.9 0.4 1.7 1z"/>
+	</g>
+	<path id="prefix__Path_12268" fill-rule="evenodd" class="s2" d="m24 0v23.1h-24v-23.1z"/>
+</svg>

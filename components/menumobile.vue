@@ -1,12 +1,15 @@
 <template>
-    <div class="columns mx-0 mt-4  is-mobile is-vcentered is-hidden-desktop">
+        <div class="columns mx-0 mt-4  is-mobile is-vcentered is-hidden-desktop">
         <div class="column pb-0 mr-5">
-        <img src="icon.png">
+        <div class="p-3"style="height: 50px;
+  width: 50px;
+  background-color: rgb(43, 43, 43);
+  border-radius: 50%;
+  box-shadow: 0px 2px 5px #626262;">
+<img src="icons8-user-25.png" alt="">
         </div>
-        <div class="column pb-0 has-text-left ml-5">
-                <NuxtLink to="/profile">
-                    <img src="user_avatar-51px.png">
-                </NuxtLink>
-            </div>
+        </div>
     </div>
+
+    
 </template>

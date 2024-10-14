@@ -1,11 +1,11 @@
 <template>
-  <div style="background-color: rgb(43, 43, 43);">
-    <div class="columns mx-0 is-justify-content-center">
-      <div class="column content-max-with">
+  <div>
+    <div class="columns mx-0 is-justify-content-center" >
+      <div class="column content-max-with px-0">
         <menudesktop />
         <menumobile />
         <Nuxt />
-        <footeer />
+    
       </div>
     </div>
   </div>

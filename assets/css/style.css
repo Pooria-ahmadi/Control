@@ -84,6 +84,13 @@ body,
   height: 95px;
   width: 64px;
 }
+.profile-button{
+  height: 50px;
+  width: 50px;
+  background-color: rgb(30, 29, 29);
+  border-radius: 50%;
+  box-shadow: 0px 2px 5px #626262;
+}
 ::placeholder {
   font-family: vazir !important;
 }

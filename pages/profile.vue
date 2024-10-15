@@ -4,7 +4,7 @@
       <div class="column content-max-with">
         <div class="columns mx-0 mt-4  is-mobile is-vcentered">
           <div class="column pb-0 pr-6">
-            <img src="icon.png">
+            <img src="parsiansazeh.png">
           </div>
           <div class="column is-flex is-justify-content-center">
             <p class="pt-4 ml-3 has-text-grey-light is-size-7 is-clickable" @click="logout">

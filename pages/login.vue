@@ -2,7 +2,7 @@
     <section>
         <div v-if="!codeIsSend">
             <div class="has-text-centered mt-6">
-                <img src="/favicon.png" alt="">
+                <img src="/parsiansazeh.png" alt="">
             </div>
             <p class="is-size-5 has-text-centered has-text-black mt-5 has-text-weight-bold font-bold-number">
                 ورود
@@ -36,7 +36,7 @@
         </div>
         <div v-else>
             <div class="has-text-centered mt-6">
-                <img src="/favicon.png" alt="">
+                <img src="/parsiansazeh.png" alt="">
             </div>
             <p class="is-size-5 has-text-centered has-text-black mt-5 has-text-weight-bold font-bold-number">
                 ورود

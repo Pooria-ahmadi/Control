@@ -8,7 +8,7 @@ export default {
       lang: 'fa',
       dir: 'rtl'
     },
-    title: 'پایاشاپ',
+    title: 'پارسیان سازه',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -17,7 +17,7 @@ export default {
     ],
     link: [
       { rel: 'alternate', hreflang: 'fa-ir', href: 'https://www.app.payavending.com/' },
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.png' }
+      { rel: 'icon', type: 'image/x-icon', href: '/parsiansazeh.ico' }
     ]
   },
 

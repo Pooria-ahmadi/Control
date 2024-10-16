@@ -70,13 +70,51 @@ body,
 }
 
 .img-on-center-circle {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  border-radius: 50%;
+  position: relative;
 }
-.option-center-circle{
+.img-overlay {
+  position: absolute;
+  top: 43%;
+  left: 50%;
+  transform: translate(-50%, -50%); 
+}
+
+.rotate {
+  animation: rotate 0.5s linear;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg); 
+  }
+  to {
+    transform: rotate(250deg); 
+  }
+}
+
+.box-shomaresh {
+  background-color: rgb(19, 19, 19);
+  border-radius: 8%;
+  box-shadow: white 17px -26px 21px -46px inset;
+  position: relative;
+  height: 28px;
+  width: 23px;
+  top: -4px;
+  right: 27px;
+}
+
+.counter-box {
+  position: absolute;
+  top: -40px;
+  background-color: #1a1a1a;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 8px;
+  right: 11px;
+  box-shadow: white -3px -2px 6px -7px inset;
+}
+
+.option-center-circle {
   background-color: rgb(19, 19, 19);
   border-radius: 43%;
   box-shadow: white -3px -4px 21px -16px inset;
@@ -84,13 +122,15 @@ body,
   height: 95px;
   width: 64px;
 }
-.profile-button{
+
+.profile-button {
   height: 50px;
   width: 50px;
   background-color: rgb(30, 29, 29);
   border-radius: 50%;
   box-shadow: 0px 2px 5px #626262;
 }
+
 ::placeholder {
   font-family: vazir !important;
 }
